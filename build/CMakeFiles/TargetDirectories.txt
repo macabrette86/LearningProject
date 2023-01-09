@@ -1,0 +1,3 @@
+/home/donato/Desktop/WorkSpace_VSCode/ProjectVision/build/CMakeFiles/../results/bin/TryVision.dir
+/home/donato/Desktop/WorkSpace_VSCode/ProjectVision/build/CMakeFiles/edit_cache.dir
+/home/donato/Desktop/WorkSpace_VSCode/ProjectVision/build/CMakeFiles/rebuild_cache.dir
